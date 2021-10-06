@@ -1,3 +1,3 @@
 # ShopBridge
-I have attached the Databas file for the refernce.
+I have attached the Database file for the refernce.
 Thank You.
